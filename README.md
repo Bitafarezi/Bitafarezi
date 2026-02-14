@@ -31,7 +31,7 @@
 
 <h3 align="center">Tech Toolbox 🛠️</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,figma,git," />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,Django,figma,git" />
 </div>
 
 <br />
