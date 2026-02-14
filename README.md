@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=terminal&color=00FF00&text=BITA%20@%20ROOT:%20~&height=150&fontSize=40" />
+  <img src="https://capsule-render.vercel.app/api?type=terminal&color=00FF00&text=BITA-ROOT&height=150&fontSize=40" />
 
   <p>
     <code>// ACCESSING DATABASE... SUCCESS.</code><br />
