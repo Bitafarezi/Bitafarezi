@@ -44,13 +44,13 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bitafarezi&theme=github-compact&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&hide_border=true" width="1000%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bitafarezi&theme=github-compact&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&hide_border=true" width="100%" />
 </div>
 
 <hr />
 
 <p align="center">
   <code>[SYSTEM_SHUTDOWN_INITIATED]</code><br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=60&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=80&section=footer" />
 </p>
 
