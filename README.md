@@ -21,9 +21,9 @@
 </p>
   
 <div>
-  <p align="center" color="black">
-    <a href="https://linkedin.com/in/[YOUR-LINKEDIN]"><img src="https://img.shields.io/badge/LINKEDIN-00FF88?style=for-the-badge&logo=linkedin&logoColor=0D0D0D" /></a>
-    <a href="https://twitter.com/theebita"><img src="https://img.shields.io/badge/TWITTER-00FF88?style=for-the-badge&logo=twitter&logoColor=0D0D0D" /></a>
+  <p align="center">
+    <a href="https://linkedin.com/in/[YOUR-LINKEDIN]"><img src="https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=0D0D0D" /></a>
+    <a href="https://twitter.com/theebita"><img src="https://img.shields.io/badge/TWITTER-0D0D0D?style=for-the-badge&logo=twitter&logoColor=0D0D0D" /></a>
   </p>
 </div>
 
