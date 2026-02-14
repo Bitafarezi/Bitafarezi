@@ -10,18 +10,15 @@
   <code>[ CONNECTION_STATUS: SECURE ]</code>
 </p>
 
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier&weight=600&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=FULL+STACK+INFILTRATOR;DECRYPTING+DATABASE...;ACCESS+GRANTED" />
-  </p>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&weight=600&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=FULL+STACK+INFILTRATOR;DECRYPTING+DATABASE...;ACCESS+GRANTED" />
+</p>
 
-
-  <p align="center">
-    <code>// ACCESSING DATABASE... SUCCESS.</code><br />
-    <code>// STATUS: TURNING_COFFEE_INTO_CODE</code><br />
-    <code>// ROLE: FULL_STACK_INFILTRATOR</code>
-  </p>
-
+<p align="center">
+  <code>// ACCESSING DATABASE... SUCCESS.</code><br />
+  <code>// STATUS: TURNING_COFFEE_INTO_CODE</code><br />
+  <code>// ROLE: FULL_STACK_INFILTRATOR</code>
+</p>
   
 <div>
   <p align="center">
