@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Trulyao/Trulyao/main/assets/matrix.gif" width="100%" height="200" style="object-fit: cover; border: 2px solid #00FF00; border-radius: 5px;" />
+  <img src="https://user-images.githubusercontent.com/15034114/156004660-f655a6d5-e366-41f2-9844-482260656a73.gif" width="100%" height="200" style="object-fit: cover; border: 2px solid #00FF00; border-radius: 5px;" />
 
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&height=100&lines=BITA+%25%2F+ROOT+ACCESS+GRANTED;FULL+STACK+INFILTRATOR" alt="Matrix Text" />
@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <code>[ ACCESS_POINT: ESTABLISHED ]</code>
+  <code>[ CONNECTION_STATUS: SECURE ]</code>
 </p>
 
   <p align="center">
