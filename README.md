@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJid2Z6Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCBjdXN0b20mY3Q9Zw/oBIuxfH8K8p2W/giphy.gif" width="100%" height="200" style="object-fit: cover; border-radius: 5px;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJid2Z6Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCBjdXN0b20mY3Q9Zw/oBIuxfH8K8p2W/giphy.gif" width="100%" height="250" style="object-fit: cover; border: 2px solid #00FF00; border-radius: 10px;" />
 
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=00FF00&center=true&vCenter=true&width=1200&height=100&lines=BITA+%25%2F+ROOT+ACCESS+GRANTED;SYSTEM+BREACH+SUCCESSFUL;FULL+STACK+INFILTRATOR" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&height=100&lines=BITA+%25%2F+ROOT+ACCESS+GRANTED;FULL+STACK+INFILTRATOR" alt="Matrix Text" />
   </p>
 </div>
 
 <p align="center">
-  <code>[ DECRYPTING DATA... 100% ]</code>
+  <code>[ SYSTEM_BREACH: SUCCESSFUL ]</code>
 </p>
 
   <p align="center">
