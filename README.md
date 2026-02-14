@@ -1,12 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00ff00&text=BITA%20%25/%20ROOT%20ACCESS%20GRANTED&fontSize=40&animation=fadeIn&fontAlignY=45&desc=FULL%20STACK%20INFILTRATOR&descAlignY=65&descSize=20&bg_color=000000" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=1200&height=200&lines=BITA+%25%2F+ROOT+ACCESS+GRANTED;FULL+STACK+INFILTRATOR;SYSTEM+BREACH+SUCCESSFUL" alt="Matrix Rain" />
+  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJid2Z6Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCBjdXN0b20mY3Q9Zw/oBIuxfH8K8p2W/giphy.gif" width="100%" height="150px" style="object-fit: cover; border-bottom: 2px solid #00FF00;">
+</div>
+
 
   <p align="center">
     <code>// ACCESSING DATABASE... SUCCESS.</code><br />
     <code>// STATUS: TURNING_COFFEE_INTO_CODE</code><br />
     <code>// ROLE: FULL_STACK_INFILTRATOR</code>
   </p>
-</div>
 
   
 <div>
