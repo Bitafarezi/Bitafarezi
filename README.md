@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=00ff00&text=BITA%20%25/%20ROOT%20ACCESS%20GRANTED&fontSize=40&animation=fadeIn&fontAlignY=45&desc=FULL%20STACK%20INFILTRATOR&descAlignY=65&descSize=20&bg_color=000000" width="100%" />
 
-  <p>
+  <p align="center">
     <code>// ACCESSING DATABASE... SUCCESS.</code><br />
     <code>// STATUS: TURNING_COFFEE_INTO_CODE</code><br />
     <code>// ROLE: FULL_STACK_INFILTRATOR</code>
