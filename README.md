@@ -1,13 +1,15 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=00ff00&text=BITA%20%25/%20ROOT%20ACCESS%20GRANTED&fontSize=40&animation=fadeIn&fontAlignY=45&desc=FULL%20STACK%20INFILTRATOR&descAlignY=65&descSize=20&bg_color=000000" width="100%" />
-</div>
 
   <p>
     <code>// ACCESSING DATABASE... SUCCESS.</code><br />
     <code>// STATUS: TURNING_COFFEE_INTO_CODE</code><br />
     <code>// ROLE: FULL_STACK_INFILTRATOR</code>
   </p>
+</div>
 
+  
+<div>
   <p align="center">
     <a href="https://linkedin.com/in/[YOUR-LINKEDIN]"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" /></a>
     <a href="https://twitter.com/theebita"><img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=twitter&logoColor=00FF00" /></a>
