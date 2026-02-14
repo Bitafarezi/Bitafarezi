@@ -37,7 +37,7 @@
 <br />
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bitafarezi&show_icons=true&theme=tokyonight&bg_color=000000&text_color=00FF00&icon_color=00FF00&border_color=00FF00" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Bitafarezi&show_icons=true&bg_color=000000&text_color=00FF00&icon_color=00FF00&border_color=00FF00&title_color=00FF00&hide_border=false" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bitafarezi&theme=tokyonight&background=000000&text=00FF00&currStreakNum=00FF00&sideLabels=00FF00&dates=00FF00" />
 </div>
 
