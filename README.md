@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,django&theme=dark" width="400" />
-  <h2 style="color:#00FF00; font-family: monospace;"> > BITA @ ROOT: ~ </h2>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=terminal&color=00FF00&text=BITA-ROOT&height=150&fontSize=40" />
 
   <p>
     <code>// ACCESSING DATABASE... SUCCESS.</code><br />
