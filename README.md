@@ -56,6 +56,8 @@
 
 <!-- ================= HEADER ================= -->
 
+<!-- ================= HEADER ================= -->
+
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/15034114/156004660-f655a6d5-e366-41f2-9844-482260656a73.gif"
@@ -69,19 +71,19 @@ style="object-fit:cover; border:3px solid #9D00FF; border-radius:8px; box-shadow
 </div>
 
 <p align="center">
-<code style="color:#FF00CC; text-shadow:0 0 8px #FF00CC;">
+<code style="color:#9D00FF; text-shadow:0 0 8px #9D00FF;">
 [ CONNECTION_STATUS: SECURE ]
 </code>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier&weight=600&size=25&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=FULL+STACK+INFILTRATOR;DECRYPTING+DATABASE...;ACCESS+GRANTED" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier&weight=600&size=25&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=FULL+STACK+INFILTRATOR;DECRYPTING+DATABASE...;ACCESS+GRANTED" />
 </p>
 
 <p align="center">
 <code style="color:#00FF88;">// ACCESSING DATABASE... SUCCESS.</code><br/>
-<code style="color:#00F5FF;">// STATUS: TURNING_COFFEE_INTO_CODE</code><br/>
-<code style="color:#FF00CC;">// ROLE: FULL_STACK_INFILTRATOR</code>
+<code style="color:#9D00FF;">// STATUS: TURNING_COFFEE_INTO_CODE</code><br/>
+<code style="color:#00FF88;">// ROLE: FULL_STACK_INFILTRATOR</code>
 </p>
 
 <!-- ================= SOCIAL ================= -->
@@ -89,11 +91,11 @@ style="object-fit:cover; border:3px solid #9D00FF; border-radius:8px; box-shadow
 <div align="center">
 
 <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=00F5FF" />
+<img src="https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=00FF88" />
 </a>
 
 <a href="https://twitter.com/theebita">
-<img src="https://img.shields.io/badge/TWITTER-0D0D0D?style=for-the-badge&logo=twitter&logoColor=FF00CC" />
+<img src="https://img.shields.io/badge/TWITTER-0D0D0D?style=for-the-badge&logo=twitter&logoColor=9D00FF" />
 </a>
 
 </div>
@@ -102,7 +104,7 @@ style="object-fit:cover; border:3px solid #9D00FF; border-radius:8px; box-shadow
 
 <!-- ================= SKILLS ================= -->
 
-<h3 align="center" style="color:#00F5FF; text-shadow:0 0 10px #00F5FF;">
+<h3 align="center" style="color:#00FF88; text-shadow:0 0 10px #00FF88;">
 SYSTEM_CAPABILITIES 🛠️
 </h3>
 
@@ -117,14 +119,21 @@ SYSTEM_CAPABILITIES 🛠️
 <div align="center">
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api?username=Bitafarezi&show_icons=true&bg_color=0D0D0D&text_color=00FF88&icon_color=00F5FF&border_color=9D00FF&title_color=FF00CC" />
+src="https://github-readme-stats.vercel.app/api?username=Bitafarezi&show_icons=true&bg_color=0D0D0D&text_color=00FF88&icon_color=9D00FF&border_color=9D00FF&title_color=00FF88" />
 
 <img height="180"
-src="https://github-readme-streak-stats.herokuapp.com/?user=Bitafarezi&background=0D0D0D&ring=00FF88&fire=FF00CC&currStreakLabel=00F5FF&sideLabels=9D00FF&dates=00FF88" />
+src="https://github-readme-streak-stats.herokuapp.com/?user=Bitafarezi&background=0D0D0D&ring=9D00FF&fire=00FF88&currStreakLabel=00FF88&sideLabels=9D00FF&dates=00FF88" />
 
 </div>
 
 <br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bitafarezi&bg_color=0D0D0D&color=00FF88&line=9D00FF&point=00FF88&hide_border=true" width="100%" />
+
+</div>
+
 
 <div align="center">
 
