@@ -58,6 +58,10 @@
 
 <!-- ================= HEADER ================= -->
 
+
+
+<!-- ================= HEADER ================= -->
+
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/15034114/156004660-f655a6d5-e366-41f2-9844-482260656a73.gif"
@@ -134,10 +138,4 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Bitafarezi&backgroun
 
 </div>
 
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bitafarezi&bg_color=0D0D0D&color=00FF88&line=00F5FF&point=FF00CC&hide_border=true" width="100%" />
-
-</div>
 
