@@ -1,3 +1,4 @@
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=terminal&color=00FF00&text=BITA-ROOT&height=150&fontSize=40" />
 
   <p>
