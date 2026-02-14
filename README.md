@@ -10,7 +10,7 @@
 
 <hr />
 
-<table>
+<!-- <table>
   <tr>
     <td width="60%">
       <h3>Refining the Digital Experience 🚀</h3>
@@ -25,7 +25,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
-</table>
+</table> -->
 
 <hr />
 
