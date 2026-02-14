@@ -1,6 +1,13 @@
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,js,django&theme=dark" width="400" />
-  <h2 style="color:#00FF00; font-family: monospace;"> > BITA @ ROOT: ~ </h2>
+<pre>
+██████╗ ██╗████████╗ █████╗ 
+██╔══██╗██║╚══██╔══╝██╔══██╗
+██████╔╝██║   ██║   ███████║
+██╔══██╗██║   ██║   ██╔══██║
+██████╔╝██║   ██║   ██║  ██║
+╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝
+[ SYSTEM INITIALIZED ... ]
+</pre>
 
   <p>
     <code>// ACCESSING DATABASE... SUCCESS.</code><br />
