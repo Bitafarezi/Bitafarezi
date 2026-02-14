@@ -1,8 +1,14 @@
 <div align="center">
-  <picture>
-    <source srcset="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=BITA%20%25/%20ROOT%20ACCESS%20GRANTED&fontSize=50&fontColor=00FF00&animation=twinkling" media="(prefers-color-scheme: dark)">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=BITA%20%25/%20ROOT%20ACCESS%20GRANTED&fontSize=50&fontColor=00FF00&animation=twinkling">
-  </picture>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJid2Z6Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCBjdXN0b20mY3Q9Zw/oBIuxfH8K8p2W/giphy.gif" width="100%" height="200" style="object-fit: cover; border-radius: 5px;" />
+
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=00FF00&center=true&vCenter=true&width=1200&height=100&lines=BITA+%25%2F+ROOT+ACCESS+GRANTED;SYSTEM+BREACH+SUCCESSFUL;FULL+STACK+INFILTRATOR" alt="Typing SVG" />
+  </p>
+</div>
+
+<p align="center">
+  <code>[ DECRYPTING DATA... 100% ]</code>
+</p>
 
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Courier&weight=600&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=FULL+STACK+INFILTRATOR;DECRYPTING+DATABASE...;ACCESS+GRANTED" />
