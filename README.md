@@ -1,4 +1,4 @@
-<!-- <div align="center">
+<div align="center">
   <img src="https://user-images.githubusercontent.com/15034114/156004660-f655a6d5-e366-41f2-9844-482260656a73.gif" width="100%" height="200" style="object-fit: cover; border: 2px solid #00FF00; border-radius: 5px;" />
 
   <p align="center">
@@ -52,90 +52,4 @@
 <p align="center">
   <code>[SYSTEM_SHUTDOWN_INITIATED]</code><br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=80&section=footer" />
-</p> -->
-
-<!-- ================= HEADER ================= -->
-
-<!-- ================= HEADER ================= -->
-
-
-
-<!-- ================= HEADER ================= -->
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/15034114/156004660-f655a6d5-e366-41f2-9844-482260656a73.gif"
-width="100%" height="200"
-style="object-fit:cover; border:3px solid #9D00FF; border-radius:8px; box-shadow:0 0 25px #9D00FF;" />
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00FF88&center=true&vCenter=true&width=1000&height=100&lines=BITA+%25%2F+ROOT+ACCESS+GRANTED;FULL+STACK+INFILTRATOR" />
-</p>
-
-</div>
-
-<p align="center">
-<code style="color:#9D00FF; text-shadow:0 0 8px #9D00FF;">
-[ CONNECTION_STATUS: SECURE ]
-</code>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier&weight=600&size=25&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=FULL+STACK+INFILTRATOR;DECRYPTING+DATABASE...;ACCESS+GRANTED" />
-</p>
-
-<p align="center">
-<code style="color:#00FF88;">// ACCESSING DATABASE... SUCCESS.</code><br/>
-<code style="color:#9D00FF;">// STATUS: TURNING_COFFEE_INTO_CODE</code><br/>
-<code style="color:#00FF88;">// ROLE: FULL_STACK_INFILTRATOR</code>
-</p>
-
-<!-- ================= SOCIAL ================= -->
-
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=00FF88" />
-</a>
-
-<a href="https://twitter.com/theebita">
-<img src="https://img.shields.io/badge/TWITTER-0D0D0D?style=for-the-badge&logo=twitter&logoColor=9D00FF" />
-</a>
-
-</div>
-
-<hr style="border-color:#9D00FF;" />
-
-<!-- ================= SKILLS ================= -->
-
-<h3 align="center" style="color:#00FF88; text-shadow:0 0 10px #00FF88;">
-SYSTEM_CAPABILITIES 🛠️
-</h3>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,django,figma,git&theme=dark" />
-</div>
-
-<br/>
-
-<!-- ================= STATS ================= -->
-
-<div align="center">
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=Bitafarezi&show_icons=true&bg_color=0D0D0D&text_color=00FF88&icon_color=9D00FF&border_color=9D00FF&title_color=00FF88" />
-
-<img height="180"
-src="https://github-readme-streak-stats.herokuapp.com/?user=Bitafarezi&background=0D0D0D&ring=9D00FF&fire=00FF88&currStreakLabel=00FF88&sideLabels=9D00FF&dates=00FF88" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bitafarezi&bg_color=0D0D0D&color=00FF88&line=9D00FF&point=00FF88&hide_border=true" width="100%" />
-
-</div>
-
-
+</p> 
