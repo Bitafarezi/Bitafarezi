@@ -1,14 +1,12 @@
 <div align="center">
 
-<!-- TOP HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=250&section=header&text=BITA%20SYSTEMS&fontSize=80&animation=glitch&fontAlignY=40&desc=ROOT%20ACCESS%20GRANTED%20|%20FULL%20STACK%20INFILTRATOR&descAlignY=60&descSize=20&fontColor=00FF00" width="100%" />
+<!-- 3D FLOATING CUBE HERO -->
+<img src="cube.svg" width="100%" alt="3D Floating Cube in Space" />
 
 <br/>
 
-<!-- 3D CYBERPUNK ANIMATION -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/15034114/156004660-f655a6d5-e366-41f2-9844-482260656a73.gif" width="100%" height="250" style="object-fit: cover; border: 1px solid #00FF00; border-radius: 2px;" />
-</div>
+<!-- TOP HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=BITA%20SYSTEMS&fontSize=70&animation=glitch&fontAlignY=40&desc=NEURAL+ARCHIVE+ACCESS+|+SPACE+INFILTRATOR&descAlignY=65&descSize=18&fontColor=00FF00" width="100%" />
 
 <br/>
 
