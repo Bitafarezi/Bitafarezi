@@ -1,136 +1,124 @@
 <div align="center">
 
-<!-- 🌌 DEEP SPACE HERO 🌌 -->
-<img src="cube.svg" width="100%" alt="3D Floating Cube in Space" />
+<!-- BLURFRAME HERO -->
+<img src="blurframe.svg" width="100%" alt="BlurFrame Cyber-Matrix Dashboard" />
 
 <br/>
 
-<!-- TOP HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=BITA%20SYSTEMS&fontSize=70&animation=glitch&fontAlignY=40&desc=NEURAL+ARCHIVE+ACCESS+|+SPACE+INFILTRATOR&descAlignY=65&descSize=18&fontColor=00FF00" width="100%" />
+<!-- HEADLINE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=BITA%20|%20BLURFRAME&fontSize=60&animation=fadeIn&fontAlignY=40&desc=FULL%20STACK%20INFILTRATOR%20|%20SIGNAL%20ARCHITECT&descAlignY=70&descSize=16&fontColor=00d2ff" width="100%" />
 
 <br/>
 
-<!-- TERMINAL TYPING EFFECT -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&height=80&lines=SCANNING+SECTOR+7G...;ESTABLISHING+STABLE+ORBIT...;BITA:+SPACE+INFILTRATOR;DECRYPTING+COSMIC+DATA...;WELCOME+TO+THE+VOID." alt="Matrix Text" />
-</p>
+<!-- DYNAMIC TYPING -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&pause=1000&color=00d2ff&center=true&vCenter=true&width=800&height=50&lines=Transmitting+Signal+Over+Noise;Establishing+Stable+Frequency...;Bypassing+the+Grid;Welcome+to+BlurFrame.)](https://git.io/typing-svg)
 
 <p align="center">
-  <code>[ COORDS: 0.0.0.0 ]</code> • <code>[ OXYGEN: 100% ]</code> • <code>[ MISSION: EXPLORE ]</code>
+  <code>PYTHON</code> • <code>DJANGO</code> • <code>LINUX</code> • <code>GIT</code> • <code>JAVASCRIPT</code>
 </p>
 
-<img src="divider.svg" width="100%" />
+</div>
 
-<!-- SYSTEM DIAGNOSTICS SECTION -->
-### 📟 SHIP_LOGS
+---
+
+### � TRANSMISSION_LOGS
 
 <div align="left">
 
 ```bash
 > whoami
-Bitafarezi (Space Infiltrator)
+Bita (BlurFrame Operative)
 
-> status --current
-- Drifting through the codebase at light speed.
-- Engineering robust systems in zero-gravity.
-- Currently orbiting: [Web3, Cloud-Native, AI/ML]
+> status --transmission
+- Filtering noise.
+- Architecting high-intent digital signals.
+- Optimized for: [Web3, Cloud-Native, Distributed Systems]
 
-> cat /proc/stellar_interests
+> cat /proc/signals
 - 3D Web Graphics (Three.js/WebGL)
 - Cybersecurity & Encryption
-- Low-level Systems Engineering
+- Neural-Link Integration
 ```
 
 </div>
 
-<img src="divider.svg" width="100%" />
+---
 
-<!-- SKILLS GRID -->
-### 🛠️ STELLAR_CAPABILITIES
+### 🛠️ SIGNAL_CAPABILITIES
 
 <br/>
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,python,django,docker,kubernetes,aws,git,linux,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,django,linux,git,js,html,css,ts,react,nextjs,nodejs,postgres,docker,aws,kubernetes&theme=dark" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Frontend-000000?style=for-the-badge&logo=react&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=nodedotjs&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Cloud-000000?style=for-the-badge&logo=amazonwebservices&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/SIGNAL-PYTHON-00d2ff?style=for-the-badge&logo=python&logoColor=000000" />
+  <img src="https://img.shields.io/badge/GRID-LINUX-00d2ff?style=for-the-badge&logo=linux&logoColor=000000" />
+  <img src="https://img.shields.io/badge/LINK-DJANGO-00d2ff?style=for-the-badge&logo=django&logoColor=000000" />
+  <img src="https://img.shields.io/badge/ARCHIVE-GIT-00d2ff?style=for-the-badge&logo=git&logoColor=000000" />
 </div>
 
-<img src="divider.svg" width="100%" />
+---
 
-<!-- ANALYTICS SECTION -->
-### 📊 COSMIC_ANALYTICS
-
-<br/>
+### 📊 FREQUENCY_ANALYTICS
 
 <div align="center">
   <table border="0">
     <tr>
       <td width="50%">
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=Bitafarezi&show_icons=true&bg_color=000000&text_color=00FF00&icon_color=00FF00&border_color=00FF00&title_color=00FF00&hide_border=false" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Bitafarezi&show_icons=true&theme=tokyonight&bg_color=000000&text_color=00d2ff&icon_color=00d2ff&border_color=00d2ff&title_color=00d2ff&hide_border=false" height="170" />
       </td>
       <td width="50%">
-        <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Bitafarezi&theme=tokyonight&background=000000&text=00FF00&currStreakNum=00FF00&sideLabels=00FF00&dates=00FF00" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bitafarezi&theme=tokyonight&background=000000&text=00d2ff&currStreakNum=00d2ff&sideLabels=00d2ff&dates=00d2ff&hide_border=false" height="170" />
       </td>
     </tr>
   </table>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bitafarezi&theme=github-compact&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&hide_border=false" width="100%" />
-</div>
-
-<img src="divider.svg" width="100%" />
-
-<!-- 3D ARCHIVE SECTION -->
-### 🧊 3D_STELLAR_ARCHIVE
-
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Bitafarezi&theme=dark&color=00FF00" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bitafarezi&theme=github-compact&bg_color=000000&color=00d2ff&line=00d2ff&point=ff0055&hide_border=false" width="100%" />
 </div>
 
-<img src="divider.svg" width="100%" />
+---
 
-<!-- SOCIAL CONNECT -->
-### 📡 UPLINK_STATIONS
+### 🧊 3D_GRID_VISUALIZATION
 
-<br/>
+<div align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Bitafarezi&theme=dark&color=00d2ff" width="100%" />
+</div>
+
+---
+
+### 📡 UPLINK_CHANNELS
 
 <div align="center">
   <a href="https://linkedin.com/in/Bitafarezi" target="blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" />
+    <img src="https://img.shields.io/badge/LINKEDIN-00d2ff?style=for-the-badge&logo=linkedin&logoColor=000000" />
   </a>
   <a href="https://twitter.com/theebita" target="blank">
-    <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=twitter&logoColor=00FF00" />
+    <img src="https://img.shields.io/badge/TWITTER-00d2ff?style=for-the-badge&logo=twitter&logoColor=000000" />
   </a>
   <a href="mailto:contact@bita.systems">
-    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" />
+    <img src="https://img.shields.io/badge/EMAIL-00d2ff?style=for-the-badge&logo=gmail&logoColor=000000" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bitafarezi&color=00FF00&style=flat-square&label=VOYAGERS_DETECTED" />
+  <img src="https://komarev.com/ghpvc/?username=Bitafarezi&color=00d2ff&style=flat-square&label=SIGNALS_RECEIVED" />
 </div>
 
-<img src="divider.svg" width="100%" />
+---
 
-<!-- FOOTER -->
 <p align="center">
-  <code>[DEEP_SPACE_MODE: ACTIVE]</code><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&text=END+OF+TRANSMISSION&fontSize=20&fontColor=00FF00" width="100%" />
+  <code>[ SIGNAL_STRENGTH: MAXIMUM ]</code><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer&text=CONNECTION+SECURE&fontSize=20&fontColor=ff0055" width="100%" />
 </p>
-
-</div>
