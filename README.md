@@ -88,16 +88,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bitafarezi&theme=github-compact&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&hide_border=false" width="100%" />
-</div>
-
-<hr style="border: 1px solid #00FF00;" />
-
-<!-- 3D GRID VISUALIZATION -->
-<h3 align="center" style="color: #00FF00; font-family: 'Courier New', monospace;">3D_GRID_RECON 🧊</h3>
-
-<div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Bitafarezi&theme=dark&color=00FF00" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bitafarezi&theme=github-compact&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&hide_border=true" width="100%" />
 </div>
 
 <hr style="border: 1px solid #00FF00;" />
