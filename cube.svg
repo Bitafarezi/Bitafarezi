@@ -1,1 +1,95 @@
 
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Deep Space Background Gradient -->
+    <radialGradient id="spaceGradient" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="#0a0a2a" />
+      <stop offset="100%" stop-color="#000000" />
+    </radialGradient>
+    
+    <!-- Nebula Glow -->
+    <radialGradient id="nebulaGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#4b0082" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#4b0082" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Cube Face Gradients -->
+    <linearGradient id="faceFront" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00FF00" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#006400" stop-opacity="0.9" />
+    </linearGradient>
+    <linearGradient id="faceTop" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00FF7F" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#008000" stop-opacity="0.8" />
+    </linearGradient>
+    <linearGradient id="faceRight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#32CD32" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#004d00" stop-opacity="0.8" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#spaceGradient)" />
+  <circle cx="400" cy="200" r="300" fill="url(#nebulaGlow)" />
+
+  <!-- Twinkling Stars -->
+  <g>
+    <circle cx="100" cy="50" r="1" fill="white">
+      <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="700" cy="300" r="1.5" fill="white">
+      <animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="200" cy="350" r="0.8" fill="#FFFACD">
+      <animate attributeName="opacity" values="0.2;0.8;0.2" dur="5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="600" cy="80" r="1.2" fill="#E0FFFF">
+      <animate attributeName="opacity" values="0;1;0" dur="2.5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="400" cy="380" r="1" fill="white">
+      <animate attributeName="opacity" values="0.1;1;0.1" dur="6s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="50" cy="200" r="0.5" fill="white" opacity="0.5" />
+    <circle cx="750" cy="150" r="0.7" fill="white" opacity="0.3" />
+    <circle cx="300" cy="30" r="1" fill="white" opacity="0.6" />
+  </g>
+
+  <!-- Floating 3D Cube Group -->
+  <g transform="translate(400, 200)">
+    <animateTransform attributeName="transform" type="translate" values="400,200; 410,190; 390,210; 400,200" dur="10s" repeatCount="indefinite" />
+    
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="20s" repeatCount="indefinite" />
+      
+      <!-- Cube Faces (Isometric projection approximation) -->
+      <!-- Top Face -->
+      <polygon points="0,-60 60,-30 0,0 -60,-30" fill="url(#faceTop)">
+        <animate attributeName="opacity" values="0.7;0.9;0.7" dur="4s" repeatCount="indefinite" />
+      </polygon>
+      <text x="0" y="-25" font-family="Courier, monospace" font-size="14" fill="#000000" font-weight="bold" text-anchor="middle" transform="skewX(-30) rotate(-10)">SYSTEM</text>
+
+      <!-- Front Left Face -->
+      <polygon points="0,0 -60,-30 -60,40 0,70" fill="url(#faceFront)">
+        <animate attributeName="opacity" values="0.8;1;0.8" dur="4s" repeatCount="indefinite" />
+      </polygon>
+      <text x="-30" y="30" font-family="Courier, monospace" font-size="16" fill="#00FF00" font-weight="bold" text-anchor="middle" transform="rotate(-30)">BITA</text>
+
+      <!-- Front Right Face -->
+      <polygon points="0,0 60,-30 60,40 0,70" fill="url(#faceRight)">
+        <animate attributeName="opacity" values="0.6;0.8;0.6" dur="4s" repeatCount="indefinite" />
+      </polygon>
+      <text x="30" y="30" font-family="Courier, monospace" font-size="16" fill="#00FF00" font-weight="bold" text-anchor="middle" transform="rotate(30)">ROOT</text>
+    </g>
+  </g>
+
+  <!-- Space Dust / Particles -->
+  <g opacity="0.4">
+    <circle cx="0" cy="0" r="1" fill="#00FF00">
+      <animateMotion path="M 0,0 L 800,400" dur="15s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="800" cy="0" r="1" fill="#00FF00">
+      <animateMotion path="M 800,0 L 0,400" dur="12s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+</svg>
