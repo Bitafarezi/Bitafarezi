@@ -1,55 +1,75 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/15034114/156004660-f655a6d5-e366-41f2-9844-482260656a73.gif" width="100%" height="200" style="object-fit: cover; border: 2px solid #00FF00; border-radius: 5px;" />
 
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&height=100&lines=BITA+%25%2F+ROOT+ACCESS+GRANTED;FULL+STACK+INFILTRATOR" alt="Matrix Text" />
-  </p>
+# 🌌 Welcome to Bita's Cyber-Realm 🌌
+
+<img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=300&section=header&text=BITA%20SYSTEMS&fontSize=90&animation=fadeIn&fontAlignY=38&desc=HYPER-CONNECTED%20SOFTWARE%20ENGINEER&descAlignY=55&descSize=20&fontColor=0abde3" />
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=f368e0&center=true&vCenter=true&width=600&lines=Initializing+System...;Accessing+Neural+Network...;Bita:+Full+Stack+Developer;Building+the+Future+of+Web3;Welcome+to+the+Grid.)](https://git.io/typing-svg)
+
+<br/>
+
+### 📟 SYSTEM STATUS: ACTIVE
+
+<img src="https://raw.githubusercontent.com/Kira-Miki/Kira-Miki/master/assets/cyberpunk.gif" width="100%" />
+
 </div>
 
-<p align="center">
-  <code>[ CONNECTION_STATUS: SECURE ]</code>
-</p>
+<hr/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&weight=600&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=FULL+STACK+INFILTRATOR;DECRYPTING+DATABASE...;ACCESS+GRANTED" />
-</p>
-
-<p align="center">
-  <code>// ACCESSING DATABASE... SUCCESS.</code><br />
-  <code>// STATUS: TURNING_COFFEE_INTO_CODE</code><br />
-  <code>// ROLE: FULL_STACK_INFILTRATOR</code>
-</p>
-  
-<div>
-  <p align="center">
-    <a href="https://linkedin.com/in/[YOUR-LINKEDIN]"><img src="https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=0D0D0D" /></a>
-    <a href="https://twitter.com/theebita"><img src="https://img.shields.io/badge/TWITTER-0D0D0D?style=for-the-badge&logo=twitter&logoColor=0D0D0D" /></a>
-  </p>
-</div>
-
-<hr />
-
-<h3 align="center">SYSTEM_CAPABILITIES 🛠️</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,figma,git&theme=dark" />
-</div>
-
-<br />
+### 🚀 RECENT DEPLOYMENTS
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Bitafarezi&show_icons=true&bg_color=000000&text_color=00FF00&icon_color=00FF00&border_color=00FF00&title_color=00FF00&hide_border=false" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bitafarezi&theme=tokyonight&background=000000&text=00FF00&currStreakNum=00FF00&sideLabels=00FF00&dates=00FF00" />
+
+| Project | Status | Tech Stack |
+| :--- | :---: | :--- |
+| **[Project-Alpha](https://github.com/Bita/project-alpha)** | `STABLE` | `React` `Node.js` `Socket.io` |
+| **[Neural-Net](https://github.com/Bita/neural-net)** | `IN-PROGRESS` | `Python` `PyTorch` `CUDA` |
+| **[Grid-Runner](https://github.com/Bita/grid-runner)** | `BETA` | `Three.js` `GLSL` `Rust` |
+
 </div>
 
-<br />
+<hr/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bitafarezi&theme=github-compact&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&hide_border=true" width="100%" />
-</div>
-
-<hr />
+### 🛠️ CORE TECHNOLOGIES
 
 <p align="center">
-  <code>[SYSTEM_SHUTDOWN_INITIATED]</code><br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=80&section=footer" />
-</p> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,python,docker,kubernetes,aws,git,linux&theme=dark" />
+  </a>
+</p>
+
+<hr/>
+
+### 📊 NEURAL ANALYTICS
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bita&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bita&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bita&theme=tokyonight&hide_border=true" />
+</div>
+
+<hr/>
+
+### 🧊 3D ARCHIVE
+
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Bita" width="100%" />
+</p>
+
+<hr/>
+
+### 📡 CONNECT WITH THE GRID
+
+<p align="center">
+<a href="https://linkedin.com/in/Bita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bita" height="30" width="40" /></a>
+<a href="https://twitter.com/Bita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-lite.svg" alt="Bita" height="30" width="40" /></a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bita&color=0abde3&style=flat-square&label=PROFILE+VIEWS" />
+</div>
