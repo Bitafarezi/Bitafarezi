@@ -42,7 +42,7 @@
   <a href="https://twitter.com/theebita" target="blank">
     <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=twitter&logoColor=00FF00" />
   </a>
-  <a href="mailto:contact@bita.systems">
+  <a href="mailto:bitafarezii@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" />
   </a>
 </div>
