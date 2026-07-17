@@ -28,8 +28,8 @@
 
 <p align="center">
   <code>// ACCESSING DATABASE... SUCCESS.</code><br />
-  <code>// STATUS: TURNING_COFFEE_INTO_CODE</code><br />
-  <code>// ROLE: FULL_STACK_INFILTRATOR</code>
+  <code>// STATUS: TURNING_COFFEE_INTO_CODE.</code><br />
+  <code>// ROLE: FULL_STACK_INFILTRATOR.</code>
 </p>
 
 <br/>
