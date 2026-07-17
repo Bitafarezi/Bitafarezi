@@ -47,7 +47,8 @@
   </a>
 </div>
 
-</div>
+</div> 
+
 
 <hr style="border: 1px solid #00FF00;" />
 
@@ -72,11 +73,13 @@
 <!-- NEURAL ANALYTICS DASHBOARD -->
 <h3 align="center" style="color: #00FF00; font-family: 'Courier New', monospace;">NEURAL_ANALYTICS 📊</h3>
 
+
 <div align="center">
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img height="185" src="https://github-readme-stats.vercel.app/api?username=Bitafarezi&show_icons=true&bg_color=000000&text_color=00FF00&icon_color=00FF00&border_color=00FF00&title_color=00FF00&hide_border=false" />
+        <!-- کارت آمار کل - سرور جایگزین و فوق‌العاده پایدار -->
+        <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bitafarezi&theme=monokai" />
       </td>
       <td width="50%" align="center">
         <img height="185" src="https://github-readme-streak-stats.herokuapp.com/?user=Bitafarezi&theme=tokyonight&background=000000&text=00FF00&currStreakNum=00FF00&sideLabels=00FF00&dates=00FF00&hide_border=false" />
@@ -100,12 +103,3 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer&text=CONNECTION+TERMINATED&fontSize=25&fontColor=000000" width="100%" />
   </p>
 </div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bitafarezi&show_icons=true&theme=tokyonight&locale=en" alt="Bita's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bitafarezi&layout=compact&theme=tokyonight&locale=en" alt="Bita's Top Langs" />
-</p>
-
