@@ -100,7 +100,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer&text=CONNECTION+TERMINATED&fontSize=25&fontColor=000000" width="100%" />
   </p>
 </div>
--->
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bitafarezi&show_icons=true&theme=tokyonight&locale=en" alt="Bita's GitHub Stats" />
 </p>
