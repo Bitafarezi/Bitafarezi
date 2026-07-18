@@ -36,10 +36,10 @@
 
 <!-- UPLINK NODES -->
 <div align="center">
-  <a href="https://linkedin.com/in/Bitafarezi" target="blank">
+  <a href="https://www.linkedin.com/in/bitafarezi/" target="blank">
     <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" />
   </a>
-  <a href="https://twitter.com/theebita" target="blank">
+  <a href="https://x.com/bitafarezi" target="blank">
     <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=twitter&logoColor=00FF00" />
   </a>
   <a href="mailto:bitafarezii@gmail.com">
