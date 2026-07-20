@@ -94,6 +94,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bitafarezi&theme=github-compact&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&hide_border=true" width="100%" />
 </div>
 
+<br/>
+
+<!-- SNAKE ANIMATION -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Bitafarezi/Bitafarezi/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</div>
+
 <hr style="border: 1px solid #00FF00;" />
 
 <!-- SYSTEM SHUTDOWN -->
