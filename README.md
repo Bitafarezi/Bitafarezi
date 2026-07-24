@@ -3,21 +3,30 @@
 <!-- TOP SYSTEM BANNER -->
 <img src="https://user-images.githubusercontent.com/15034114/156004660-f655a6d5-e366-41f2-9844-482260656a73.gif" width="100%" height="250" style="object-fit: cover; border: 2px solid #00FF00; border-radius: 5px;" />
 
+<br/><br/>
+
+<!-- ASCII SCAN & PRIMARY TERMINAL SECTION -->
+<table border="0" width="100%">
+  <tr>
+    <td width="45%" align="center" valign="middle">
+      <img src="./scan_art.gif" width="100%" style="border: 2px solid #00FF00; border-radius: 8px;" alt="ASCII Scan Animation" />
+    </td>
+    <td width="55%" align="center" valign="middle">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=100&lines=BITA+%2F%2F+SYSTEM+OVERRIDE;FULL+STACK+INFILTRATOR;DECRYPTING+THE+MAINFRAME...;ACCESS+GRANTED+TO+THE+GRID." alt="Matrix Text" />
+      <br/>
+      <p align="center">
+        <code>[ CONNECTION_STATUS: SECURE ]</code><br/>
+        <code>[ ENCRYPTION: AES-256 ]</code><br/>
+        <code>[ UPTIME: 99.99% ]</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
 <br/>
 
 <!-- ADVANCED HUD OVERLAY -->
 <img src="advanced-hud.svg" width="100%" alt="Advanced Hacker HUD" />
-
-<br/>
-
-<!-- PRIMARY TERMINAL TYPING -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&height=120&lines=BITA+%2F%2F+SYSTEM+OVERRIDE;FULL+STACK+INFILTRATOR;DECRYPTING+THE+MAINFRAME...;ACCESS+GRANTED+TO+THE+GRID." alt="Matrix Text" />
-</p>
-
-<p align="center">
-  <code>[ CONNECTION_STATUS: SECURE ]</code> • <code>[ ENCRYPTION: AES-256 ]</code> • <code>[ UPTIME: 99.99% ]</code>
-</p>
 
 <br/>
 
@@ -49,7 +58,6 @@
 
 </div> 
 
-
 <hr style="border: 1px solid #00FF00;" />
 
 <!-- SYSTEM CAPABILITIES -->
@@ -72,7 +80,6 @@
 
 <!-- NEURAL ANALYTICS DASHBOARD -->
 <h3 align="center" style="color: #00FF00; font-family: 'Courier New', monospace;">NEURAL_ANALYTICS 📊</h3>
-
 
 <div align="center">
   <table border="0">
